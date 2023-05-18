@@ -1,6 +1,2 @@
 some text
-some text
-some text
-some text
-some text
-some text
+Запушим во все репозитории одноавременно 
